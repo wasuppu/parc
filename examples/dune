@@ -1,0 +1,29 @@
+(executable
+ (public_name wyas1)
+ (name wyas1)
+ (libraries parc))
+
+(executable
+ (public_name wyas2)
+ (name wyas2)
+ (libraries parc))
+
+(executable
+ (public_name wyas3)
+ (name wyas3)
+ (libraries parc))
+
+(executable
+ (public_name wyas4)
+ (name wyas4)
+ (libraries parc))
+
+(executable
+ (public_name wyas5)
+ (name wyas5)
+ (libraries parc))
+
+(executable
+ (public_name wyas)
+ (name wyas)
+ (libraries parc))
